@@ -1,0 +1,46 @@
+.star-size{
+    font-size: 15px;
+}
+.icon {
+    font-size: 30px;
+    vertical-align: middle;
+}
+
+.liststyle{
+    padding-left:50px;
+    display:inline-block;
+}
+.first{
+    margin-top: 20px;
+    justify-content: left;
+}
+.price{
+    text-decoration: line-through;
+}
+.sizes{
+    font-size:10px;
+}
+.icon-style{
+    font-size: 15px;
+    vertical-align: middle;
+    color:red;
+}
+.shopping-icon-style{
+    font-size: 15px;
+    vertical-align: middle;
+}
+
+.favorite-border-style{
+    float: right;
+}
+.favorite-border-style:hover{
+    cursor: grab;
+    color: red;
+}
+.image-size{
+    width: 40px;
+    height: 40px;
+}
+.badge{
+    font-size:15px;
+}
